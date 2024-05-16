@@ -11,7 +11,7 @@ Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Min
 
 # Example On Menu Screen (Bedrock Edition)
 
-<img width="500px" height="auto" src="https://github.com/brokenedtzjs/NekoUI-Java-Edition/assets/72795026/08ab7c57-d7b6-4f58-a7f5-27fede530052" alt="nekoui">
+<img width="500px" height="auto" src="https://github.com/CyraTeam/NekoUI-Download/assets/72795026/cae9be7f-8d05-4133-a7cf-a64e23415739" alt="nekoui">
 
 # Installation
 > First Downloads The Jar File From Verified Platfroms:
