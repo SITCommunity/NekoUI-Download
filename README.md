@@ -19,7 +19,7 @@ Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Min
 > - Modrinth: -
 > 
 > Or Downloads From NekoUI Official Github Release:
-> - Github: -
+> - Github: [Github Release](https://github.com/CyraTeam/NekoUI-Download/releases)
 
 Note: The Fabric Versions Of NekoUI Is Under Developments, Please Keep Patients
 
