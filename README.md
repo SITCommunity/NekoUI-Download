@@ -15,11 +15,11 @@ Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Min
 
 # Installation
 > First Downloads The Jar File From Verified Platfroms:
-> - CurseForge: -
-> - Modrinth: -
+> - CurseForge: [NekoUI-CurseForge]
+> - Modrinth: [NekoUI-Modrinth]
 > 
 > Or Downloads From NekoUI Official Github Release:
-> - Github: [Github Release](https://github.com/CyraTeam/NekoUI-Download/releases)
+> - Github: [Github Release]
 
 Note: The Fabric Versions Of NekoUI Is Under Developments, Please Keep Patients
 
@@ -45,3 +45,7 @@ This Project under All Rights Reserved
 
 Also this project is unaffiliated with developer of Blue Archive game: Nexon, NAT GAMES and Yostar.
 ```
+
+[NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
+[NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
+[Github Release]: https://github.com/CyraTeam/NekoUI-Download/releases
