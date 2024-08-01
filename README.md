@@ -7,9 +7,9 @@ Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Min
 <img src="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml" alt="gradle">
 </div>
 
-# Example On Menu Screen (Bedrock Edition)
+# Preview On Menu Screen
 
-<img width="500px" height="auto" src="https://github.com/CyraTeam/NekoUI-Download/assets/72795026/cae9be7f-8d05-4133-a7cf-a64e23415739" alt="nekoui">
+<img width="500px" height="auto" src="https://github.com/user-attachments/assets/67d0efac-3194-488c-9273-9e47d14f9d55" alt="nekoui">
 
 # Installation
 > First Downloads The Jar File From Verified Platfroms:
