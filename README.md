@@ -1,7 +1,5 @@
 # NekoUI Java Edition
 
-> Coming Soon
-
 Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Minecraft Java Edition
 
 <div align="center">
