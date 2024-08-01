@@ -1,8 +1,5 @@
 CHANGELOG - NEKOUI v1.0-ALPHA
 
 - [ BG ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
-- [ MUSIC ] Added Blue Archive Character MBG
 - [ CONFIG ] Switch Background On Mods Config
-- [ CONFIG ] Custom Mods Config
-- [ CONFIG ] Enable / DIsable Animated Background
-- [ CONFIG ] Enable / Disable Blue Archive Background
+- [ CONFIG ] Mods Config
