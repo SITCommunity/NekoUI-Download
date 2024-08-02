@@ -1,6 +1,6 @@
 # NekoUI Java Edition
 
-Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Minecraft Java Edition
+Introduces Custom User Interface (CUI), Blue Archive Background and Music in Minecraft: Java Edition
 
 <div align="center">
 <img src="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates" alt="dependabot-update">
@@ -12,21 +12,21 @@ Creating a Custom User Interface (UI), Blue Archive Background And Sounds In Min
 <img width="500px" height="auto" src="https://github.com/user-attachments/assets/67d0efac-3194-488c-9273-9e47d14f9d55" alt="nekoui">
 
 # Installation
-> First Downloads The Jar File From Verified Platfroms:
+> First downloads the mod jar file from verified platfroms, also you can download it from their client:
 > - CurseForge: [NekoUI-CurseForge]
 > - Modrinth: [NekoUI-Modrinth]
 > 
-> Or Downloads From NekoUI Official Github Release:
+> Or you can download it from NekoUI Official Github Release:
 > - Github: [Github Release]
 
-Note: The Fabric Versions Of NekoUI Is Under Developments, Please Keep Patients
+Note: The Fabric Version Of NekoUI is under development, please keep patience until it will be ported.
 
 ### How To Use The Mods
-> Copy The Jar File To ".minecraft/mods" Folders.
+> Copy the mod jar file into ".minecraft/mods" Folders.
 > 
-> Note: If Using MultiMC, PrimsLauncher, Or Others Modified Minecraft Launcher. You Can Import / Downloads From The The Launcher.
+> Note: If you using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
 
-# Credit
+# Credits
 
 > All Staff & Contributor On NekoUI Java Edition / Han's Community
 > - brokenedtz (Mods Developers)
