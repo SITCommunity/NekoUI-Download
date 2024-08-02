@@ -3,8 +3,8 @@
 Introduces Custom User Interface (CUI), Blue Archive Background and Music in Minecraft: Java Edition
 
 <div align="center">
-<img src="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates" alt="dependabot-update">
-<img src="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml" alt="gradle">
+  <img src="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/dependabot/dependabot-updates" alt="dependabot-update">
+  <img src="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml/badge.svg" href="https://github.com/CyraTeam/NekoUI/actions/workflows/gradle.yml" alt="gradle">
 </div>
 
 # Preview On Menu Screen
@@ -12,14 +12,14 @@ Introduces Custom User Interface (CUI), Blue Archive Background and Music in Min
 <img width="500px" height="auto" src="https://github.com/user-attachments/assets/67d0efac-3194-488c-9273-9e47d14f9d55" alt="nekoui">
 
 # Installation
-> First downloads the mod jar file from verified platfroms, also you can download it from their client:
+> First download the mod jar file from verified platfroms, also you can download it from their client:
 > - CurseForge: [NekoUI-CurseForge]
 > - Modrinth: [NekoUI-Modrinth]
 > 
 > Or you can download it from NekoUI Official Github Release:
 > - Github: [Github Release]
 
-Note: The Fabric Version Of NekoUI is under development, please keep patience until it will be ported.
+Note: The Fabric Version of NekoUI is under development, please keep patience until it will be ported.
 
 ### How To Use The Mods
 > Copy the mod jar file into ".minecraft/mods" Folders.
@@ -28,7 +28,7 @@ Note: The Fabric Version Of NekoUI is under development, please keep patience un
 
 # Credits
 
-> All Staff & Contributor On NekoUI Java Edition / Han's Community
+> All Staff & Contributor on NekoUI Java Edition / Han's Community
 > - brokenedtz (Mods Developers)
 > - Han's (Original Creators)
 > - AetherLumine (Contributor)
