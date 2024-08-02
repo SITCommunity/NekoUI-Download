@@ -19,8 +19,6 @@ Introduces Custom User Interface (CUI), Blue Archive Background and Music in Min
 > or you can download it from NekoUI Official Github Release:
 > - Github: [Github Release]
 
-Note: The Fabric Version of NekoUI is under development, please keep patience until it will be ported.
-
 ### How To Use The Mods
 > Copy the mod jar file into ".minecraft/mods" Folders.
 > 
