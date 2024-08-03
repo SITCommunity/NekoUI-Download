@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SITCommunity/nekoui-download",
   "promos": {
-    "1.20.1-latest": "1.0-alpha",
-    "1.20.1-recommended": "1.0-alpha"
+    "1.20.1-latest": "1.0-beta",
+    "1.20.1-recommended": "1.0-beta"
   },
   "1.20.1": {
+    "1.0-beta": "Redesign Config & Menu Screen UI, Improvement, Added MusicPlayer",
     "1.0-alpha": "nekoui alpha test"
   }
 }
