@@ -1,3 +1,11 @@
+CHANGELOG - NEKOUI V1.0-BETA
+- [ UI ] Redesign Config UI
+- [ UI ] Redesign Menu Screen UI
+- [ UI ] Redesign Game Mode Selector
+- [ UPDATE ] Update Reminder & Updater Added
+- [ MUSIC ] MusicPlayer Added
+- [ OTHER ] Improvement
+
 CHANGELOG - NEKOUI v1.0-ALPHA
 
 - [ BG ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
