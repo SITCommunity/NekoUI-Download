@@ -7,7 +7,6 @@ CHANGELOG - NEKOUI V1.0-BETA
 - [ OTHER ] Improvement
 
 CHANGELOG - NEKOUI v1.0-ALPHA
-
 - [ BG ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
 - [ CONFIG ] Switch Background On Mods Config
 - [ CONFIG ] Mods Config
