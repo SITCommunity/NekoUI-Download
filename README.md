@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-ARR-green)](https://github.com/SITCommunity/NekoUI-Download/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download/issues)
 [![Release](https://img.shields.io/github/v/release/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download/releases)
-[![Download](https://img.shields.io/github/downloads/SITCommunity/nekoui-download/total)](https://github.com/SITCommunity/NekoUI-Download/releases)
+[![Github](https://img.shields.io/github/downloads/SITCommunity/nekoui-download/total)](https://github.com/SITCommunity/NekoUI-Download/releases)
 [![Modrinth](https://img.shields.io/modrinth/dt/EZpbRipP)](https://modrinth.com/mod/nekoui)
 [![CurseForge](https://img.shields.io/curseforge/dt/999428)](https://www.curseforge.com/minecraft/mc-mods/neko-ui)
 [![Github Star](https://img.shields.io/github/stars/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download)
