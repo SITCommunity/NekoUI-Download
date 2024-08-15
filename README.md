@@ -1,4 +1,4 @@
-# NekoUI Java Edition
+![NekoUI](https://github.com/SITCommunity/NekoUI-Download/blob/main/assets/nekoui.png)
 
 [![License](https://img.shields.io/badge/License-ARR-green)](https://github.com/SITCommunity/NekoUI-Download/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download/issues)
