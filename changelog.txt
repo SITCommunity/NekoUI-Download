@@ -1,10 +1,20 @@
 CHANGELOG - NEKOUI V1.0-BETA
 - [ UI ] Redesign Config UI
 - [ UI ] Redesign Menu Screen UI
-- [ UI ] Redesign Game Mode Selector
-- [ UPDATE ] Update Reminder & Updater Added
-- [ MUSIC ] MusicPlayer Added
+- [ UI ] Added Custom Play Screen
+- [ UPDATE ] Added Update Reminder & Updater
+- [ MUSIC ] Added BGM Blue Archive Character
+- [ BACKGROUND ] Background Didnt Load Same At Config
 - [ OTHER ] Improvement
+- [ FONT ] Font Already Included In Mods On BETA Versions
+
+[ BACKGROUND ]
++ Reisa
++ Mina
++ Mika
+- Yuuka
+
+==================================================================
 
 CHANGELOG - NEKOUI v1.0-ALPHA
 - [ BG ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
