@@ -12,6 +12,9 @@
 > [!NOTE]
 > this project is unaffiliated with developer of Blue Archive game: Nexon, NAT GAMES and Yostar.
 
+> [!TIP]
+> For Others Translated Readme Check On [Here](https://github.com/SITCommunity/NekoUI-Download/tree/main/assets/readme)
+
 NekoUI Introduces Custom User Interface (CUI), Blue Archive Background and Music in Minecraft: Java Edition
 
 # Assets List
