@@ -7,6 +7,7 @@ CHANGELOG - NEKOUI V1.0-BETA
 - [ BACKGROUND ] Background Didnt Load Same At Config
 - [ OTHER ] Improvement
 - [ FONT ] Font Already Included In Mods On BETA Versions
+- [ JAVA ] Change `Java 17` > `Java 21`
 
 [ BACKGROUND ]
 + Reisa
@@ -17,6 +18,6 @@ CHANGELOG - NEKOUI V1.0-BETA
 ==================================================================
 
 CHANGELOG - NEKOUI v1.0-ALPHA
-- [ BG ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
+- [ BACKGROUND ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
 - [ CONFIG ] Switch Background On Mods Config
 - [ CONFIG ] Mods Config
