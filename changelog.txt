@@ -7,7 +7,7 @@ CHANGELOG - NEKOUI V1.0-BETA
 - [ BACKGROUND ] Background Didnt Load Same At Config
 - [ OTHER ] Improvement
 - [ FONT ] Font Already Included In Mods On BETA Versions
-- [ JAVA ] Change `Java 17` > `Java 21`
+- [ JAVA ] Change Java 17 > Java 21
 
 [ BACKGROUND ]
 + Reisa
