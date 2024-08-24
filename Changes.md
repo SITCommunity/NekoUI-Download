@@ -3,7 +3,7 @@
 ## Released Versions
 ### --
 
-## Alpha Release Versions
+## Beta Release Versions
 ### v1.0-beta (--/--/2024)
 - [ UI ] Redesign Config UI
 - [ UI ] Redesign Menu Screen UI
@@ -26,7 +26,7 @@
 - Yuuka
 ```
 
-## Beta Release Versions
+## Alpha Release Versions
 ### v1.0-beta (31/7/2024)
 - [ BACKGROUND ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
 - [ CONFIG ] Switch Background On Mods Config
