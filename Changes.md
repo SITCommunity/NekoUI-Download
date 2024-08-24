@@ -11,10 +11,12 @@
 - [ UPDATE ] Added Update Reminder & Updater
 - [ MUSIC ] Added BGM Blue Archive Character
 - [ BACKGROUND ] Background Didnt Load Same At Config
-- [ OTHER ] Improvement
 - [ FONT ] Font Already Included In Mods On BETA Versions
 - [ RPC ] Added Discord Rich Presence
 - [ JAVA ] Required `Java 17` > `Java 21`
+- [ LOADER ] Currently NekoUI Already Support Quilt In Beta Version
+- [ OTHER ] NekoUI Not Using Architectury Again As Mod Implementation
+- [ OTHER ] Improvement
 
 [ BACKGROUND ]
 ```diff
