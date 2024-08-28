@@ -1,7 +1,8 @@
 # NekoUI Changes
 
 ## Released Versions
-### --
+### v1.0 (--/--/----)
+- [ - ] ------
 
 ## Beta Release Versions
 ### v1.0-beta (--/--/2024)
@@ -13,7 +14,7 @@
 - [ BACKGROUND ] Background Didnt Load Same At Config
 - [ FONT ] Font Already Included In Mods On BETA Versions
 - [ RPC ] Added Discord Rich Presence
-- [ JAVA ] Required `Java 17` > `Java 21`
+- [ JAVA ] Recommended `Java 21`
 - [ LOADER ] Currently NekoUI Already Support Quilt In Beta Version
 - [ OTHER ] NekoUI Not Using Architectury Again As Mod Implementation
 - [ OTHER ] Improvement
