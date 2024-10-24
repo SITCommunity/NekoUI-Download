@@ -1,18 +1,14 @@
 {
   "homepage": "https://modrinth.com/mod/nekoui/versions",
   "promos": {
-    "1.20.1-latest": "1.0-latest",
-    "1.20.1-recommended": "1.0-latest"
+    "1.20.1-latest": "1.0-beta",
+    "1.20.1-recommended": "1.0-beta"
   },
   "1.20.1": {
-    "1.0-latest": "this is a test",
     "1.0-beta": "Redesign Config & Menu Screen UI, Improvement, Added MusicPlayer, Added Mod Updater & Update Reminder, Support Quilt",
     "1.0-alpha": "nekoui alpha test"
   },
   "changelog": {
-    "1.0-latest": [
-      "this is a test"
-    ],
     "1.0-beta": [
       "+ Added Custom Play Screen",
       "+ Added Update Reminder & Updater",
