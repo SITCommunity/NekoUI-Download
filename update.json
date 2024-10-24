@@ -8,7 +8,7 @@
     "1.0-latest": "this is a test",
     "1.0-beta": "Redesign Config & Menu Screen UI, Improvement, Added MusicPlayer, Added Mod Updater & Update Reminder, Support Quilt",
     "1.0-alpha": "nekoui alpha test"
-  }
+  },
   "changelog": {
     "1.0-latest": [
       "this is a test"
