@@ -39,8 +39,9 @@ NekoUI Introduces Custom User Interface (CUI), Blue Archive Background and Music
 > - CurseForge: [NekoUI-CurseForge]
 > - Modrinth: [NekoUI-Modrinth]
 >
-> or you can download it from NekoUI Official Github Release:
+> or you can download it from Other NekoUI Official Platfroms:
 > - Github: [Github Release]
+> - Website: [Website]
 
 ### How To Use The Mods
 > Copy the mod jar file into ".minecraft/mods" Folders.
@@ -66,3 +67,4 @@ This Project under All Rights Reserved
 [NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
 [NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
 [Github Release]: https://github.com/CyraTeam/NekoUI-Download/releases
+[Website]: https://cyrateam.xyz/project/nekoui/download
