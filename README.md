@@ -61,7 +61,7 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 This Project under All Rights Reserved
 > Copyright (c) 2024 Han's Community.
 > © NekoUI 2024 All Rights Reserved.
-> © 2019 - 2024 CyraTeam. All Rights Reserved.
+> © 2019 - 2024 SIT Community. All Rights Reserved.
 ```
 
 [NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
