@@ -16,7 +16,7 @@
 > [!TIP]
 > For Others Translated Readme Check On [Here](https://github.com/SITCommunity/NekoUI-Download/tree/main/assets/readme)
 
-NekoUI Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition
+NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition
 
 # Assets List
 ### Background List
