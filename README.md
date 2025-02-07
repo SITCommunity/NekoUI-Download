@@ -21,13 +21,13 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 # Assets List
 ### Background List
 ```
-- static
-- kotama
-- mika
-- mina
-- miyu
-- noa
-- reisa
+.
+├── STATIC
+│   ├── NOA
+│   ├── ARISU
+│   ├── YUUKA
+│   ├── MIKA
+│   └── MINA
 ```
 
 # Preview On Menu Screen
