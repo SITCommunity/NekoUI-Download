@@ -1,4 +1,4 @@
-![NekoUI](https://github.strivo.xyz/nekoui-download/blob/main/assets/nekoui.png)
+![NekoUI](https://github.com/sitcommunity/nekoui-download/blob/main/assets/nekoui.png)
 
 [![License](https://img.shields.io/badge/License-ARR-green)](https://github.strivo.xyz/nekoui-download/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download/issues)
