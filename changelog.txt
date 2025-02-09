@@ -27,8 +27,8 @@ CHANGELOG - NEKOUI V1.0-BETA
 [ REMOVED ]
 - BGM Blue Archive Character (Copyright Issues)
 
-[ NekoUI Downloader ]
-What is **NekoUI Downloader**? so on this beta versions, nekoui will not uploaded the main mod to public platfrom like modrinth, curseforge, etc. to solve size issue when downloading nekoui. So, we will uploaded only mod downloader `nekoui_downloader.jar` to public platfrom for downloading the main mod `nekoui_[loader]_1.0-beta.jar`.
+[ NEW ]
+- NekoUI Downloader
 
 [ New Contributors ]
 - WilloIzCitron (Translator)
