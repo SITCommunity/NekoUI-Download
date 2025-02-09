@@ -1,11 +1,11 @@
 # NekoUI Changes
 
-## Released Versions
+## Stable Release Versions
 ## v1.0 (--/--/----)
 - [ - ] ------
 
-### Beta Release Versions
-# v1.0-beta (--/--/2024)
+# Beta Release Versions
+## v1.0-beta (--/--/2025)
 [ UI ] 
 - Revamp Config UI
 - Revamp Menu Screen UI
