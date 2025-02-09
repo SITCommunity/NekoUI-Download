@@ -1,22 +1,37 @@
 CHANGELOG - NEKOUI V1.0-BETA
-- [ UI ] Redesign Config UI
-- [ UI ] Redesign Menu Screen UI
-- [ UI ] Added Custom Play Screen
+[ UI ] 
+- Revamp Config UI
+- Revamp Menu Screen UI
+- Added Custom Play Screen
+
+[ FONT ]
+- Font Already Included In Mods On BETA Versions
+
+[ MOD ]
 - [ UPDATE ] Added Update Reminder & Updater
-- [ MUSIC ] Added BGM Blue Archive Character
-- [ BACKGROUND ] Background Didnt Load Same At Config
-- [ FONT ] Font Already Included In Mods On BETA Versions
 - [ RPC ] Added Discord Rich Presence
-- [ JAVA ] Recommended Java 21
-- [ LOADER ] Currently NekoUI Already Support Quilt In Beta Version
-- [ OTHER ] NekoUI Not Using Architectury Again As Mod Implementation
-- [ OTHER ] Improvement
+- [ JAVA ] Recommended Java 17
+- [ LOADER ] Added support to quilt loaders
+- [ CONFIG ] Fix config didn't saving correctly
+- [ CONFLICT ] Fix implementation conflict
+
+[ OTHER ]
+- Changed mod id from nekoui_id > nekoui
+- Improvement performance issue
 
 [ BACKGROUND ]
-+ Reisa
-+ Mina
-+ Mika
-- Yuuka
+- Fix Background didn't load correctly
+- Static background using blue archive character
+- Added and removed some background
+
+[ REMOVED ]
+- BGM Blue Archive Character (Copyright Issues)
+
+[ NekoUI Downloader ]
+What is **NekoUI Downloader**? so on this beta versions, nekoui will not uploaded the main mod to public platfrom like modrinth, curseforge, etc. to solve size issue when downloading nekoui. So, we will uploaded only mod downloader `nekoui_downloader.jar` to public platfrom for downloading the main mod `nekoui_[loader]_1.0-beta.jar`.
+
+[ New Contributors ]
+- WilloIzCitron (Translator)
 
 ==================================================================
 
