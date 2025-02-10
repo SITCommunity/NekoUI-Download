@@ -51,8 +51,8 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 # Credits
 
 > All Staff & Contributor on NekoUI Java Edition / Han's Community
-> - brokenedtz (Mods Developers)
-> - Han's (Original Creator & Translator)
+> - brokenedtz (Mods Developers, Code QC, UI Designer)
+> - Han's (Original Creator, Translator, UI Designer)
 > - AetherLumine (Translator)
 > - howtoscriptinpython (Translator)
 
@@ -61,7 +61,7 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 ```
 This Project under All Rights Reserved
 > Copyright (c) 2025 Han's Community.
-> © NekoUI 2025 All Rights Reserved.
+> © NekoUI: Java Edition 2025 All Rights Reserved.
 > © 2019 - 2025 SIT Community. All Rights Reserved.
 ```
 
