@@ -14,6 +14,7 @@ CHANGELOG - NEKOUI V1.0-BETA
 - [ LOADER ] Added support to quilt loaders
 - [ CONFIG ] Fix config didn't saving correctly
 - [ CONFLICT ] Fix implementation conflict
+- [ FRAMEWORK ] Changed NekoUI Framework for better compability and performance
 
 [ OTHER ]
 - Changed mod id from nekoui_id > nekoui
