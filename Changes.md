@@ -6,7 +6,7 @@
 
 # Beta Release Versions
 ## v1.0-beta (--/--/2025)
-[ UI ] 
+[ UI ]
 - Revamp Config UI
 - Revamp Menu Screen UI
 - Added Custom Play Screen
@@ -21,6 +21,7 @@
 - [ LOADER ] Added support to quilt loaders
 - [ CONFIG ] Fix config didn't saving correctly
 - [ CONFLICT ] Fix implementation conflict
+- [ FRAMEWORK ] Changed NekoUI Framework for better compability and performance
 
 [ OTHER ]
 - Changed mod id from `nekoui_id` to `nekoui`
