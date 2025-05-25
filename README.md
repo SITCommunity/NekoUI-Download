@@ -48,6 +48,14 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 >
 > Note: If you using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
 
+# Version List
+- [![1.21.1](https://img.shields.io/badge/1.21.1-progress-purple)](https://modrinth.com/mod/nekoui/versions?g=1.21.1)
+- [![1.20.4](https://img.shields.io/badge/1.20.4-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.4)
+- [![1.20.3](https://img.shields.io/badge/1.20.3-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.3)
+- [![1.20.2](https://img.shields.io/badge/1.20.2-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.2)
+- [![1.20.1](https://img.shields.io/badge/1.20.1-alpha-orange)](https://modrinth.com/mod/nekoui/versions?g=1.20.1)
+- [![1.20](https://img.shields.io/badge/1.20-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20)
+
 # Credits
 
 > All Staff & Contributor on NekoUI Java Edition / Han's Community
