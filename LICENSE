@@ -15,15 +15,14 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 3. Restrictions:
    You are explicitly restricted from all of the following:
    a. Selling, leasing, renting, licensing, sublicensing, distributing, or otherwise commercializing the Project or any derivative works thereof;
-   b. Publicly displaying, performing, or broadcasting the Project;
-   c. Modifying, merging, adapting, translating, making derivative works of, or reverse engineering the Project;
-   d. Removing, altering, or obscuring any proprietary notices (including copyright or trademark notices) of the Author;
-   e. Using the Project in any manner that could damage, disable, overburden, or impair the Project or interfere with any other party's use and enjoyment of the Project;
-   f. Storing, archiving, or keeping copies of the Project, in part or in whole, beyond personal, non-commercial use as outlined above;
-   g. Re-publishing, uploading, or making the Project available to the public in any form without the express written permission of the Author.
+   b. Modifying, merging, adapting, translating, making derivative works of, or reverse engineering the Project;
+   c. Removing, altering, or obscuring any proprietary notices (including copyright or trademark notices) of the Author;
+   d. Using the Project in any manner that could damage, disable, overburden, or impair the Project or interfere with any other party's use and enjoyment of the Project;
+   e. Storing, archiving, or keeping copies of the Project, in part or in whole, beyond personal, non-commercial use as outlined above;
+   f. Re-publishing, uploading, or making the Project available to the public in any form without following the Attribution and Sharing Guidelines (see Section 13).
 
 4. Non-Commercial Use:
-   The Project is provided for non-commercial use only. You are not allowed to use the Project, or any part thereof, for any commercial purpose or for any financial gain.
+   The Project is provided for non-commercial use only. You are not allowed to use the Project, or any part thereof, for any commercial purpose or for any financial gain, except as permitted in Section 13.
 
 5. No Affiliation:
    The Project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Nexon, NAT GAMES, Yostar, or any of their subsidiaries or affiliates. The names Nexon, NAT GAMES, Yostar, as well as related names, marks, emblems, and images, are registered trademarks of their respective owners.
@@ -48,5 +47,11 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 12. Changes to this Agreement:
    The Author reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material, the Author will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at the Author’s sole discretion.
+
+13. Attribution and Sharing Guidelines:
+   a. You are allowed to use and display the Project (including in screenshots, videos, and livestreams) for content creation purposes such as YouTube videos, Twitch streams, or similar, as long as the content is not monetizing the Project directly (e.g., charging access to the mod or using the mod as the main revenue driver).
+   b. Sharing the Project is permitted only if You share the original and official links to the Project (such as the official GitHub, Modrinth, CurseForge, or the official NekoUI website).
+   c. You are not allowed to share the Project using monetized links (such as ad shorteners or paid download mirrors).
+   d. Any re-upload or redistribution must include clear attribution to the Author and must not misrepresent the source or author of the Project.
 
 By using the Project, You acknowledge that You have read this Agreement, understand it, and agree to be bound by its terms and conditions.
