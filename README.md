@@ -73,6 +73,8 @@ This Project under All Rights Reserved
 > © 2019 - 2025 SIT Community. All Rights Reserved.
 ```
 
+**Check our todo list on [here](https://trello.com/b/mJA0DTKD)**
+
 [NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
 [NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
 [Github Release]: https://github.strivo.xyz/nekoui-download/releases
