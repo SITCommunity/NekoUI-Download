@@ -18,22 +18,6 @@
 
 NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition
 
-# Assets List
-### Background List
-```
-.
-├── STATIC
-│   ├── NOA
-│   ├── ARISU
-│   ├── YUUKA
-│   ├── MIKA
-│   └── MINA
-```
-
-# Preview On Menu Screen
-
-<img width="500px" height="auto" src="https://github.com/user-attachments/assets/67d0efac-3194-488c-9273-9e47d14f9d55" alt="nekoui">
-
 # Installation
 > First download the mod jar file from verified platfroms, also you can download it from their client:
 > - CurseForge: [NekoUI-CurseForge]
@@ -46,7 +30,7 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 ### How To Use The Mods
 > Copy the mod jar file into ".minecraft/mods" Folders.
 >
-> Note: If you using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
+> Note: If you're using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
 
 # Version List
 - [![1.21.1](https://img.shields.io/badge/1.21.1-beta-orange)](https://modrinth.com/mod/nekoui/versions?g=1.21.1)
@@ -59,19 +43,19 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 
 # Credits
 
-> All Staff & Contributor on NekoUI Java Edition / Han's Community
-> - brokenedtz (Mods Developers, Code QC, UI Designer)
+> All Staff & Contributor on NekoUI Java Edition / Han's Projects
+> - nokarin (Mods Developers, Code QC, UI Designer)
 > - Han's (Original Creator, Translator, UI Designer)
 > - AetherLumine (Translator)
-> - howtoscriptinpython (Translator)
+> - howtoscriptinpython (Translator for russian & ukraine)
 
 # License
 
 ```
 This Project under All Rights Reserved
-> Copyright (c) 2025 Han's Community.
+> Copyright (c) 2025 Han's Projects.
 > © NekoUI: Java Edition 2025 All Rights Reserved.
-> © 2019 - 2025 SIT Community. All Rights Reserved.
+> © 2019 - 2025 Strivo Development. All Rights Reserved.
 ```
 
 **Check our todo list on [here](https://trello.com/b/mJA0DTKD)**
@@ -80,3 +64,4 @@ This Project under All Rights Reserved
 [NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
 [Github Release]: https://github.strivo.xyz/nekoui-download/releases
 [Website]: https://strivo.xyz/project/nekoui/download
+****
