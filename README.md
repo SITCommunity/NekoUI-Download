@@ -10,14 +10,14 @@
 [![Github Star](https://img.shields.io/github/stars/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download)
 [![Crowdin](https://badges.crowdin.net/nekoui/localized.svg)](https://crowdin.com/project/nekoui)
 
+NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition.
+****
 > [!NOTE]
 > this project is unaffiliated with developer of Blue Archive game: Nexon, NAT GAMES and Yostar.
 
 > [!TIP]
 > For Others Translated Readme Check On [Here](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
-
-NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition
-
+****
 # Installation
 > First download the mod jar file from verified platfroms, also you can download it from their client:
 > - CurseForge: [NekoUI-CurseForge]
@@ -26,12 +26,12 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 > or you can download it from Other NekoUI Official Platfroms:
 > - Github: [Github Release]
 > - Website: [Website]
-
+****
 ### How To Use The Mods
 > Copy the mod jar file into ".minecraft/mods" Folders.
 >
 > Note: If you're using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
-
+****
 # Version List
 - [![1.21.1](https://img.shields.io/badge/1.21.1-beta-orange)](https://modrinth.com/mod/nekoui/versions?g=1.21.1)
 - [![1.21.1](https://img.shields.io/badge/1.21.1-beta-orange)](https://modrinth.com/mod/nekoui/versions?g=1.21)
@@ -40,17 +40,15 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 - [![1.20.2](https://img.shields.io/badge/1.20.2-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.2)
 - [![1.20.1](https://img.shields.io/badge/1.20.1-alpha-orange)](https://modrinth.com/mod/nekoui/versions?g=1.20.1)
 - [![1.20](https://img.shields.io/badge/1.20-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20)
-
+****
 # Credits
-
 > All Staff & Contributor on NekoUI Java Edition / Han's Projects
 > - nokarin (Mods Developers, Code QC, UI Designer)
 > - Han's (Original Creator, Translator, UI Designer)
 > - AetherLumine (Translator)
 > - howtoscriptinpython (Translator for russian & ukraine)
-
+****
 # License
-
 ```
 This Project under All Rights Reserved
 > Copyright (c) 2025 Han's Projects.
@@ -64,4 +62,3 @@ This Project under All Rights Reserved
 [NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
 [Github Release]: https://github.strivo.xyz/nekoui-download/releases
 [Website]: https://strivo.xyz/project/nekoui/download
-****
