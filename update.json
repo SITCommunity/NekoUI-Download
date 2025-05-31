@@ -1,32 +1,20 @@
 {
   "homepage": "https://modrinth.com/mod/nekoui/versions",
   "promos": {
+    "1.21.1-latest": "1.0-beta+mc1.21",
+    "1.21.1-recommended": "1.0-beta+mc1.21",
+    "1.21-latest": "1.0-beta+mc1.21",
+    "1.21-recommended": "1.0-beta+mc1.21",
     "1.20.1-latest": "1.0-alpha",
     "1.20.1-recommended": "1.0-alpha"
   },
-  "1.20.1": {
-    "1.0-beta": "Redesign Config & Menu Screen UI, Improvement, Added MusicPlayer, Added Mod Updater & Update Reminder, Support Quilt",
-    "1.0-alpha": "nekoui alpha test"
+  "1.21.1": {
+    "1.0-beta+mc1.21": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support",
   },
-  "changelog": {
-    "1.0-beta": [
-      "+ Added Custom Play Screen",
-      "+ Added Update Reminder & Updater",
-      "+ Added BGM Blue Archive Character",
-      "+ Added Discord Rich Presence",
-      "+ Currently NekoUI Already Support Quilt In Beta Version",
-      "~ Redesign Config UI",
-      "~ Redesign Menu Screen UI",
-      "~ Font Already Included In Mods On BETA",
-      "~ Recommended Java 21",
-      "~ Improvement",
-      "! Background Didnt Load Same At Config",
-      "- NekoUI Not Using Architectury Again As Mod Implementation"
-    ],
-    "1.0-alpha": [
-      "+ Added Blue Archive Background (yuuka, noa, miyu, kotama)",
-      "+ Switch Background On Mods Config",
-      "+ Mods Config"
-    ]
+  "1.21": {
+    "1.0-beta+mc1.21": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support",
+  },
+  "1.20.1": {
+    "1.0-alpha": "nekoui alpha test",
   }
 }
