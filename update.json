@@ -9,12 +9,12 @@
     "1.20.1-recommended": "1.0-alpha"
   },
   "1.21.1": {
-    "1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support",
+    "1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support"
   },
   "1.21": {
-    "1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support",
+    "1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support"
   },
   "1.20.1": {
-    "1.0-alpha": "nekoui alpha test",
+    "1.0-alpha": "nekoui alpha test"
   }
 }
