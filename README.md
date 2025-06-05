@@ -15,39 +15,44 @@
 
 </div>
 
-NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Background in Minecraft: Java Edition.
+NekoUI: Java Edition brings a customized user interface (CUI), and also Blue Archive background to Minecraft: Java Edition.
 ****
 > [!NOTE]
-> this project is unaffiliated with developer of Blue Archive game: Nexon, NAT GAMES and Yostar.
+> This project is not affiliated with Nexon, NAT GAMES, or Yostar — the official developers of the Blue Archive game.
 
 > [!TIP]
-> For Others Translated Readme Check On [Here](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
+> Looking for translated README files? You can find them [here](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
 ****
 # Installation
-> First download the mod jar file from verified platfroms, also you can download it from their client:
-> - CurseForge: [NekoUI-CurseForge]
-> - Modrinth: [NekoUI-Modrinth]
->
-> or you can download it from Other NekoUI Official Platfroms:
-> - Github: [Github Release]
-> - Website: [Website]
+To get started, download the mod .jar file from one of the trusted platforms or official sources below.
+
+### Trusted Platfroms
+> - [CurseForge]
+> - [Modrinth]
+
+### Official Sources
+> - [Github Release]
+> - [Website]
 ****
-### How To Use The Mods
-> Copy the mod jar file into ".minecraft/mods" Folders.
->
-> Note: If you're using unofficial/modified Minecraft Launcher such as MultiMC, PrimsLauncher, etc. You can import/download it from The Launcher you have.
+# How To Use
+> 1. Place the downloaded .jar file into your Minecraft mods folder:
+> 2. On Windows: C:\Users\<YourName>\AppData\Roaming\.minecraft\mods
+> 3. On Linux/macOS: ~/.minecraft/mods
+> 4. Make sure you’re running a compatible mod loader (Forge or Fabric).
+> 5. Launch the game, and NekoUI should be active!
+
+### Using a custom launcher?
+> If you're using MultiMC, Prism Launcher, GDLauncher, or any custom launcher, simply add the mod to the instance's mods folder, or import it using the launcher’s built-in mod manager.
 ****
-# Version List
-- [![1.21.1](https://img.shields.io/badge/1.21.1-beta-orange)](https://modrinth.com/mod/nekoui/versions?g=1.21.1)
-- [![1.21.1](https://img.shields.io/badge/1.21.1-beta-orange)](https://modrinth.com/mod/nekoui/versions?g=1.21)
-- [![1.20.4](https://img.shields.io/badge/1.20.4-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.4)
-- [![1.20.3](https://img.shields.io/badge/1.20.3-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.3)
-- [![1.20.2](https://img.shields.io/badge/1.20.2-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20.2)
-- [![1.20.1](https://img.shields.io/badge/1.20.1-alpha-orange)](https://modrinth.com/mod/nekoui/versions?g=1.20.1)
-- [![1.20](https://img.shields.io/badge/1.20-unknown-red)](https://modrinth.com/mod/nekoui/versions?g=1.20)
+# Supported Versions
+| Minecraft Version | Status   | NekoUI Version    |
+|-------------------|----------|-------------------|
+| 1.21.1            | beta     | 1.0-beta+mc1.21.1 |
+| 1.21              | beta     | 1.0-beta+mc1.21.1 |
+| 1.20.1            | alpha    | 1.0-alpha         |
 ****
 # Credits
-> All Staff & Contributor on NekoUI Java Edition / Han's Projects
+> Huge thanks to everyone involved in making NekoUI possible:
 > - nokarin (Mods Developers, Code QC, UI Designer)
 > - Han's (Original Creator, Translator, UI Designer)
 > - AetherLumine (Translator)
@@ -56,14 +61,14 @@ NekoUI: Java Edition Introduces Custom User Interface (CUI), Blue Archive Backgr
 # License
 ```
 This Project under All Rights Reserved
-> Copyright (c) 2025 Han's Projects.
-> © NekoUI: Java Edition 2025 All Rights Reserved.
-> © 2019 - 2025 Strivo Development. All Rights Reserved.
+> © 2025 Han's Projects.
+> © NekoUI: Java Edition 2025 - All Rights Reserved.
+> © 2019-2025 Strivo Development - All Rights Reserved.
 ```
 
-**Check our todo list on [here](https://trello.com/b/mJA0DTKD)**
+**Check our roadmap and plans on [here](https://trello.com/b/mJA0DTKD)**
 
-[NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
-[NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
+[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
+[Modrinth]: https://modrinth.com/mod/nekoui
 [Github Release]: https://github.strivo.xyz/nekoui-download/releases
 [Website]: https://strivo.xyz/project/nekoui/download
