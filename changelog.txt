@@ -1,38 +1,43 @@
-CHANGELOG - NEKOUI V1.0-BETA
-[ UI ] 
-- Revamp Config UI
-- Revamp Menu Screen UI
-- Added Custom Play Screen
+CHANGELOG - NEKOUI 1.0-BETA2+MC1.21.1
+[ UI ]
+- Refreshed the Title Screen with a cleaner look
+- New custom design for the Config Screen
 
-[ FONT ]
-- Font Already Included In Mods On BETA Versions
-
-[ MOD ]
-- [ UPDATE ] Added Update Reminder & Updater
-- [ RPC ] Added Discord Rich Presence
-- [ JAVA ] Recommended Java 17
-- [ LOADER ] Added support to quilt loaders
-- [ CONFIG ] Fix config didn't saving correctly
-- [ CONFLICT ] Fix implementation conflict
-- [ FRAMEWORK ] Changed NekoUI Framework for better compability and performance
-
-[ OTHER ]
-- Changed mod id from nekoui_id > nekoui
-- Improvement performance issue
+[ CONFIG ]
+- Fixed an issue where the config screen didn't render correctly on NeoForge
 
 [ BACKGROUND ]
-- Fix Background didn't load correctly
-- Static background using blue archive character
-- Added and removed some background
+- [ HANDLER ] Added support for animated backgrounds
+- [ CUSTOMIZABLE ] You can now use your own animated background!
+- [ OPTIMIZE ] Improved performance when rendering backgrounds
+- [ NOTE ] Animated backgrounds work via Resource Packs. You can download the official pack here
 
-[ REMOVED ]
-- BGM Blue Archive Character (Copyright Issues)
+[ TRANSLATION ]
+- Added support for the Indonesian language
 
-[ NEW ]
-- NekoUI Downloader
+[ DEPRECATED ]
+- Updated and fixed deprecated code
 
-[ New Contributors ]
-- WilloIzCitron (Translator)
+==================================================================
+
+CHANGELOG - NEKOUI 1.0-BETA+MC1.21.1
+[ UI ]
+- Customized Title Screen
+- Animated Widget
+
+[ MOD ]
+- [ NOTIFICATION ] Added Update Reminder & Updater
+- [ RPC ] Added Discord Rich Presence
+- [ LOADER ] Supported fabric & neoforged loaders
+- [ VERSION ] Supported Minecraft Version 1.21
+- [ CONFIG ] Fix config didn't saving correctly
+- [ CONFLICT ] Fix implementation conflict
+
+[ BACKGROUND ]
+- [ NOTE ] On this beta version only available static background
+
+[ OTHER ]
+- Improved Code Quality
 
 ==================================================================
 
