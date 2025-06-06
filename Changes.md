@@ -1,53 +1,50 @@
-# NekoUI Changes
+# NekoUI Changelog
 
 ## Stable Release Versions
-## v1.0 (--/--/----)
-- [ - ] ------
+### --
 
-# Beta Release Versions
-## v1.0-beta (--/--/2025)
+## Beta Release Versions
+### NekoUI 1.0-beta2+mc1.21.1 (05/06/2025)
 [ UI ]
-- Revamp Config UI
-- Revamp Menu Screen UI
-- Added Custom Play Screen
+- Refreshed the Title Screen with a cleaner look
+- New custom design for the Config Screen
 
-[ FONT ]
-- Font Already Included In Mods On BETA Versions
-
-[ MOD ]
-- [ UPDATE ] Added Update Reminder & Updater
-- [ RPC ] Added Discord Rich Presence
-- [ JAVA ] Recommended ~~`Java 21`~~ `Java 17`
-- [ LOADER ] Added support to quilt loaders
-- [ CONFIG ] Fix config didn't saving correctly
-- [ CONFLICT ] Fix implementation conflict
-- [ FRAMEWORK ] Changed NekoUI Framework for better compability and performance
-
-[ OTHER ]
-- Changed mod id from `nekoui_id` to `nekoui`
-- Improvement performance issue
+[ CONFIG ]
+- Fixed an issue where the config screen didn't render correctly on NeoForge
 
 [ BACKGROUND ]
-- Fix Background didn't load correctly
-- Static background using blue archive character
-```diff
-+ Reisa
-+ Mina
-+ Mika
-- Yuuka
-```
+- [ HANDLER ] Added support for animated backgrounds
+- [ CUSTOMIZABLE ] You can now use your own animated background!
+- [ OPTIMIZE ] Improved performance when rendering backgrounds
+- [ NOTE ] Animated backgrounds work via Resource Packs. You can download the official pack [here](https://github.com/strivo-dev/NekoUI-Resources/releases/tag/1.0)
 
-[ REMOVED ]
-- BGM Blue Archive Character (Copyright Issues)
+[ TRANSLATION ]
+- Added support for the Indonesian language
 
-### NekoUI Downloader
-What is **NekoUI Downloader**? so on this beta versions, nekoui will not uploaded the main mod to public platfrom like modrinth, curseforge, etc. to solve size issue when downloading nekoui. So, we will uploaded only mod downloader `nekoui_downloader.jar` to public platfrom for downloading the main mod `nekoui_[loader]_1.0-beta.jar`.
+[ DEPRECATED ]
+- Updated and fixed deprecated code
 
-### New Contributors
-* @WilloIzCitron Translating NekoUI README https://github.com/SITCommunity/NekoUI-Download/pull/3
+### NekoUI 1.0-beta+mc1.21 (29/05/2025)
+[ UI ]
+- Customized Title Screen
+- Animated Widget
+
+[ MOD ]
+- [ NOTIFICATION ] Added Update Reminder & Updater
+- [ RPC ] Added Discord Rich Presence
+- [ LOADER ] Supported fabric & neoforged loaders
+- [ VERSION ] Supported Minecraft Version 1.21
+- [ CONFIG ] Fix config didn't saving correctly
+- [ CONFLICT ] Fix implementation conflict
+
+[ BACKGROUND ]
+- [ NOTE ] On this beta version only available static background
+
+[ OTHER ]
+- Improved Code Quality
 
 ## Alpha Release Versions
-### v1.0-beta (31/7/2024)
+### NEkoUI v1.0-beta (31/7/2024)
 - [ BACKGROUND ] Added Blue Archive Background (yuuka, noa, miyu, kotama)
 - [ CONFIG ] Switch Background On Mods Config
 - [ CONFIG ] Mods Config
