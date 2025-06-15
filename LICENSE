@@ -8,6 +8,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    - "Author" refers to nokarin.
    - "Project" refers to the NekoUI project, including all associated source code, assets, and documentation.
    - "You" or "Your" refers to any individual or legal entity exercising permissions granted by this license.
+   - "Background Assets" refers to visual background files (static or animated) used by the Project, whether bundled or provided separately via external resource packs.
 
 2. Grant of License:
    The Author grants You a personal, non-transferable, non-exclusive, revocable, limited license to use the Project strictly in accordance with the terms of this Agreement. You may use the Project for personal, non-commercial purposes only.
@@ -15,7 +16,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 3. Restrictions:
    You are explicitly restricted from all of the following:
    a. Selling, leasing, renting, licensing, sublicensing, distributing, or otherwise commercializing the Project or any derivative works thereof;
-   b. Modifying, merging, adapting, translating, making derivative works of, or reverse engineering the Project;
+   b. Modifying, merging, adapting, translating, making derivative works of, or reverse engineering the Project, excluding Background Assets;
    c. Removing, altering, or obscuring any proprietary notices (including copyright or trademark notices) of the Author;
    d. Using the Project in any manner that could damage, disable, overburden, or impair the Project or interfere with any other party's use and enjoyment of the Project;
    e. Storing, archiving, or keeping copies of the Project, in part or in whole, beyond personal, non-commercial use as outlined above;
