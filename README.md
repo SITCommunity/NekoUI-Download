@@ -15,7 +15,7 @@
 
 </div>
 
-NekoUI: Java Edition brings a customized user interface (CUI), and also Blue Archive background to Minecraft: Java Edition.
+NekoUI: Java Edition brings a customized user interface (CUI), and Customizeable background to Minecraft: Java Edition.
 ****
 > [!NOTE]
 > This project is not affiliated with Nexon, NAT GAMES, or Yostar — the official developers of the Blue Archive game.
