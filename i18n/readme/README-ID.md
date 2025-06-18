@@ -21,7 +21,7 @@ NekoUI: Java Edition menghadirkan antarmuka pengguna yang disesuaikan (CUI) dan 
 > Proyek ini tidak berafiliasi dengan, didukung oleh, atau terkait dengan game, perusahaan, atau merek pihak ketiga mana pun.
 
 > [!TIP]
-> Mencari README yang diterjemahkan? Anda dapat menemukannya [di sini](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
+> Mencari README yang diterjemahkan? Anda dapat menemukannya [di sini](https://github.strivo.xyz/nekoui-download/tree/main/i18n/readme)
 ****
 # Instalasi
 Untuk memulai, unduh berkas mod .jar dari salah satu platform tepercaya atau sumber resmi di bawah ini.

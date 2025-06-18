@@ -21,7 +21,7 @@ NekoUI: Java Edition brings a customized user interface (CUI), and Customizeable
 > This project is not affiliated with, endorsed by, or associated with any third-party game, company, or brand.
 
 > [!TIP]
-> Looking for translated README files? You can find them [here](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
+> Looking for translated README files? You can find them [here](https://github.strivo.xyz/nekoui-download/tree/main/i18n/readme)
 ****
 # Installation
 To get started, download the mod .jar file from one of the trusted platforms or official sources below.
