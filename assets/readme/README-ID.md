@@ -1,73 +1,74 @@
-![NekoUI](https://github.com/SITCommunity/NekoUI-Download/blob/main/assets/nekoui.png)
+![NekoUI](https://github.com/sitcommunity/nekoui-download/blob/main/assets/nekoui.png)
 
+<div align="center">
 
-[![License](https://img.shields.io/badge/License-ARR-green)](https://github.com/SITCommunity/NekoUI-Download/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download/issues)
-[![Release](https://img.shields.io/github/v/release/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download/releases)
-[![Github](https://img.shields.io/github/downloads/SITCommunity/nekoui-download/total)](https://github.com/SITCommunity/NekoUI-Download/releases)
-[![Modrinth](https://img.shields.io/modrinth/dt/EZpbRipP)](https://modrinth.com/mod/nekoui)
-[![CurseForge](https://img.shields.io/curseforge/dt/999428)](https://www.curseforge.com/minecraft/mc-mods/neko-ui)
-[![Visitor](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSITCommunity%2Fnekoui-download&countColor=%2337d67a&style=flat)](https://github.com/SITCommunity/NekoUI-Download)
-[![Github Star](https://img.shields.io/github/stars/SITCommunity/nekoui-download)](https://github.com/SITCommunity/NekoUI-Download)
+[![Github](https://img.shields.io/github/downloads/strivo-dev/nekoui-download/total?logo=github&labelColor=grat&color=black)](https://github.strivo.xyz/nekoui-download/releases)
+[![Modrinth](https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/EZpbRipP&logo=modrinth)](https://modrinth.com/mod/nekoui)
+[![CurseForge](https://cf.way2muchnoise.eu/full_999428_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/neko-ui)
+[![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple)](https://modrinth.com/mod/nekoui)
 
+[![License](https://img.shields.io/badge/License-ARR-green)](https://github.strivo.xyz/nekoui-download/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download/issues)
+[![Release](https://img.shields.io/github/v/release/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download/releases)
+[![Crowdin](https://badges.crowdin.net/nekoui/localized.svg)](https://crowdin.com/project/nekoui)
+[![Github Star](https://img.shields.io/github/stars/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download)
 
+</div>
+
+NekoUI: Java Edition menghadirkan antarmuka pengguna yang disesuaikan (CUI) dan latar belakang yang dapat disesuaikan untuk Minecraft: Java Edition.
+****
 > [!NOTE]
-> Proyek ini tidak terafiliasi dengan pengembang game Blue Archive: Nexon, NAT GAMES, dan Yostar.
+> Proyek ini tidak berafiliasi dengan, didukung oleh, atau terkait dengan game, perusahaan, atau merek pihak ketiga mana pun.
 
-NekoUI Menghadirkan User Interface (UI) Yang Di Custom, Dengan Background Dan BGM Dari Blue Archive Di Minecraft: Java Edition
-
-
-# Assets List
-### Background List
-```
-- static
-- kotama
-- mika
-- mina
-- miyu
-- noa
-- reisa
-```
-
-
-# Contoh Menu Screen
-
-
-<img width="500px" height="auto" src="https://github.com/user-attachments/assets/67d0efac-3194-488c-9273-9e47d14f9d55" alt="nekoui">
-
-
+> [!TIP]
+> Mencari README yang diterjemahkan? Anda dapat menemukannya [di sini](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
+****
 # Instalasi
-> Pertama, download mod dari platfrom yang terpecaya, dan juga bisa download dari client minecraft
-> - CurseForge: [NekoUI-CurseForge]
-> - Modrinth: [NekoUI-Modrinth]
->
-> atau bisa download dari Github Release Official NekoUI
-> - Github: [Github Release]
+Untuk memulai, unduh berkas mod .jar dari salah satu platform tepercaya atau sumber resmi di bawah ini.
 
-### Cara Menggunakan Mods NekoUI
-> Copy mod nekoui kedalam folder "./minecraft/mods"
->
-> Note: Jika kamu menggunakan launcher yang sudah di modifikasi seperti, MultiMC, PrimsLauncher, dll. Kamu bisa import/download langsung dari launcher tersebut.
+### Platfrom Terpecaya
+> - [CurseForge]
+> - [Modrinth]
 
-# Credits
+### Sumber Asli
+> - [Github Release]
+> - [Website]
+****
+# Cara Menggunakan
+> 1. Pindahkan file .jar yang telah diunduh ke folder mods Minecraft Anda:
+> 2. Di Windows: C:\Users\<NamaAnda>\AppData\Roaming\.minecraft\mods
+> 3. Di Linux/macOS: ~/.minecraft/mods
+> 4. Pastikan Anda menggunakan mod loader yang kompatibel (Forge atau Fabric).
+> 5. Jalankan game, dan NekoUI seharusnya sudah aktif!
 
-
-> Seluruh Staff & Contributor NekoUI Java Edition / Han's Community
-> - brokenedtz (Mods Developers)
-> - Han's (Original Creators)
-> - AetherLumine (Contributor)
-
-# License
-
-
+### Menggunakan launcher custom?
+> Jika Anda menggunakan MultiMC, Prism Launcher, GDLauncher, atau launcher kustom lainnya, cukup tambahkan mod ke folder mods instance, atau impor menggunakan pengelola mod bawaan launcher.
+****
+# Versi yang didukung
+| Versi Minecraft | Status | Versi NekoUI      |
+|-----------------|--------|-------------------|
+| 1.21.1          | beta   | 1.0-beta+mc1.21.1 |
+| 1.21            | beta   | 1.0-beta+mc1.21.1 |
+| 1.20.1          | alpha  | 1.0-alpha         |
+****
+# Kredit
+> Terima kasih yang sebesar-besarnya kepada semua yang terlibat dalam pembuatan NekoUI:
+> - nokarin (Pengembang Mod, Penguji Kode, Desainer Antarmuka Pengguna)
+> - Han's (Pencipta Asli, Penerjemah, Desainer Antarmuka Pengguna)
+> - AetherLumine (Penerjemah)
+> - howtoscriptinpython (Penerjemah untuk Rusia & Ukraina)
+****
+# Lisensi
 ```
-Proyek ini di bawah Lisensi
-> Copyright (c) 2024 Han's Community.
-> © NekoUI 2024 All Rights Reserved.
-> © 2019 - 2024 CyraTeam. All Rights Reserved.
+Proyek ini dilindungi hak cipta sepenuhnya
+> © 2025 Han's Projects.
+> © NekoUI: Java Edition 2025 - All Rights Reserved.
+> © 2019-2025 Strivo Development - All Rights Reserved.
 ```
 
+**Lihat peta jalan dan rencana kami di [sini](https://trello.com/b/mJA0DTKD)**
 
-[NekoUI-CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
-[NekoUI-Modrinth]: https://modrinth.com/mod/nekoui
-[Github Release]: https://github.com/CyraTeam/NekoUI-Download/releases
+[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/neko-ui
+[Modrinth]: https://modrinth.com/mod/nekoui
+[Github Release]: https://github.strivo.xyz/nekoui-download/releases
+[Website]: https://strivo.xyz/project/nekoui/download

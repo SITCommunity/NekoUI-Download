@@ -18,7 +18,7 @@
 NekoUI: Java Edition brings a customized user interface (CUI), and Customizeable background to Minecraft: Java Edition.
 ****
 > [!NOTE]
-> This project is not affiliated with Nexon, NAT GAMES, or Yostar — the official developers of the Blue Archive game.
+> This project is not affiliated with, endorsed by, or associated with any third-party game, company, or brand.
 
 > [!TIP]
 > Looking for translated README files? You can find them [here](https://github.strivo.xyz/nekoui-download/tree/main/assets/readme)
