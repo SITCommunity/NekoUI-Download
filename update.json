@@ -1,20 +1,20 @@
 {
   "homepage": "https://modrinth.com/mod/nekoui/versions",
   "promos": {
-    "1.21.1-latest": "v1.0-release+mc1.21.1",
-    "1.21.1-recommended": "v1.0-release+mc1.21.1",
-    "1.21-latest": "v1.0-release+mc1.21.1",
-    "1.21-recommended": "v1.0-release+mc1.21.1",
+    "1.21.1-latest": "v1.0-release+mc1.21",
+    "1.21.1-recommended": "v1.0-release+mc1.21",
+    "1.21-latest": "v1.0-release+mc1.21",
+    "1.21-recommended": "v1.0-release+mc1.21",
     "1.20.1-latest": "v1.0-alpha",
     "1.20.1-recommended": "v1.0-alpha"
   },
   "1.21.1": {
-    "v1.0-release+mc1.21.1": "Clean Mode UI with animated transitions, dynamic Discord RPC with stable timestamps, improved background handling (including image conversion, frame sorting, and static previews), optimized config for low-end devices, Fabric/Quilt mod menu, fixed deprecated APIs, refined window behavior, and native window title update.",
+    "v1.0-release+mc1.21": "Clean Mode UI with animated transitions, dynamic Discord RPC with stable timestamps, improved background handling (including image conversion, frame sorting, and static previews), optimized config for low-end devices, Fabric/Quilt mod menu, fixed deprecated APIs, refined window behavior, and native window title update.",
     "v1.0-beta2+mc1.21.1": "Refreshed the Title Screen with a cleaner look, New custom design for the Config Screen, Fixed an issue where the config screen didn't render correctly on NeoForge, and much more.",
     "v1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support"
   },
   "1.21": {
-    "v1.0-release+mc1.21.1": "Clean Mode UI with animated transitions, dynamic Discord RPC with stable timestamps, improved background handling (including image conversion, frame sorting, and static previews), optimized config for low-end devices, Fabric/Quilt mod menu, fixed deprecated APIs, refined window behavior, and native window title update.",
+    "v1.0-release+mc1.21": "Clean Mode UI with animated transitions, dynamic Discord RPC with stable timestamps, improved background handling (including image conversion, frame sorting, and static previews), optimized config for low-end devices, Fabric/Quilt mod menu, fixed deprecated APIs, refined window behavior, and native window title update.",
     "v1.0-beta2+mc1.21.1": "Refreshed the Title Screen with a cleaner look, New custom design for the Config Screen, Fixed an issue where the config screen didn't render correctly on NeoForge, and much more.",
     "v1.0-beta+mc1.21.1": "Added Discord RPC, UI Improvement, Neoforge and Quilt loaders support, 1.21 and 1.21.1 Support"
   },
