@@ -1,7 +1,60 @@
 # NekoUI Changelog
 
 ## Stable Release Versions
-### --
+### NekoUI 1.0-release+mc1.21.1 (20/06/2025)
+[ UI ]
+- Widgets (including image buttons and text buttons) now animate out with a directional slide + fade-out effect when Clean Mode is enabled, and fade back in when toggled off.
+- Added a new button in the title screen that toggles Clean Mode, a minimal UI state that hides all main buttons and shows only the animated background.
+- Fixed an issue where widgets would reappear when resizing or toggling fullscreen, even while in Clean Mode.
+
+[ RPC ]
+- The presence now dynamically reflects the player’s game state — including transitioning between menus, singleplayer worlds, and multiplayer servers — in real-time.
+- The Discord small image key now correctly updates based on the current dimension
+- Redundant or excessive presence updates were eliminated via an internal cooldown and intelligent state comparison.
+- The presence start timestamp now remains consistent during a game session, only resetting on major context changes (e.g. entering a new world or server).
+  This prevents Discord from showing the activity as "just started" every few seconds.
+
+[ BACKGROUND ]
+- Added support for converting standard images into an in-game compatible format.
+- Resolved an issue where colors in converted images appeared distorted or overly red.
+- Transparency (alpha) is now preserved correctly during image processing.
+- Improved color handling and consistency in image previews and rendering.
+- Minor refinements to internal logging for better debugging support.
+- Fallback system for invalid or missing background names. Now gracefully falls back to:
+    - the built-in `default` background.
+- Frame sorting now uses **numerical index parsing** rather than relying on strict file naming like `frame1.png`.
+- Backgrounds with filenames containing numeric values (e.g., `bg_1.png`, `frame-1.jpg`, `1.jpeg`) are now supported.
+- Files without any number in the name (e.g., `frame.png`, `frame.jpg`, `frame.jpeg`) are **ignored** and no longer interfere with animation order.
+- Prevented loading animation backgrounds that only contain non-frame images.
+- Improved detection reliability and fallback behavior when no valid frames exist.
+
+[ IMPLEMENTATION ]
+- Implement mod menu into fabric and quilt loaders
+
+[ DEPRECATED ]
+- Fix deprecated code on forge
+- Fix url utility using deprecated API
+
+[ CONFIG ]
+- Optimized background selection screen performance for low-end devices.
+- Only the selected background is animated during preview.
+- Non-selected backgrounds now use static preview frames to reduce GPU/CPU load.
+- Greatly reduces lag/freeze when opening the background config with many animated entries.
+- Cleaned up visual focus by highlighting only the active selection with animation and border color.
+
+[ UPDATE ]
+- Fixed issue where `Show Details` button caused UI to overflow beyond window boundaries.
+- Fixed `pack()` causing the window to lose its rounded corners and center alignment.
+- Fixed frame not resizing properly when toggling the log area visibility.
+- Fixed components misaligning when log area was shown.
+- Replaced `setSize()` with `pack()` to dynamically adapt window size to content.
+- Frame shape (rounded rectangle) is now reapplied after `pack()` to preserve custom window design.
+- Toggling the details panel now updates both layout and shape to match the expanded height.
+- "Enable Auto-Update" and "Show Details" are now placed side by side in a horizontal layout.
+- Added minimum window size to prevent unexpected shrinking when log is hidden.
+
+[ OTHER ]
+- The native window title (top bar and taskbar) now displays `NekoUI [Minecraft Version]`
 
 ## Beta Release Versions
 ### NekoUI 1.0-beta2+mc1.21.1 (05/06/2025)
