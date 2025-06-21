@@ -1,4 +1,4 @@
-![NekoUI](https://github.com/sitcommunity/nekoui-download/blob/main/assets/nekoui.png)
+![NekoUI](https://github.com/strivo-dev/nekoui-download/blob/main/assets/nekoui_banner.png)
 
 <div align="center">
 
@@ -8,10 +8,10 @@
 [![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple)](https://modrinth.com/mod/nekoui)
 
 [![License](https://img.shields.io/badge/License-ARR-green)](https://github.strivo.xyz/nekoui-download/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download/issues)
-[![Release](https://img.shields.io/github/v/release/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download/releases)
+[![Issues](https://img.shields.io/github/issues/strivo-dev/nekoui-download)](https://github.strivo.xyz/nekoui-download/issues)
+[![Release](https://img.shields.io/github/v/release/strivo-dev/nekoui-download)](https://github.strivo.xyz/nekoui-download/releases)
 [![Crowdin](https://badges.crowdin.net/nekoui/localized.svg)](https://crowdin.com/project/nekoui)
-[![Github Star](https://img.shields.io/github/stars/SITCommunity/nekoui-download)](https://github.strivo.xyz/nekoui-download)
+[![Github Star](https://img.shields.io/github/stars/strivo-dev/nekoui-download)](https://github.strivo.xyz/nekoui-download)
 
 </div>
 
@@ -45,11 +45,15 @@ Untuk memulai, unduh berkas mod .jar dari salah satu platform tepercaya atau sum
 > Jika Anda menggunakan MultiMC, Prism Launcher, GDLauncher, atau launcher kustom lainnya, cukup tambahkan mod ke folder mods instance, atau impor menggunakan pengelola mod bawaan launcher.
 ****
 # Versi yang didukung
-| Versi Minecraft | Status | Versi NekoUI      |
-|-----------------|--------|-------------------|
-| 1.21.1          | beta   | 1.0-beta+mc1.21.1 |
-| 1.21            | beta   | 1.0-beta+mc1.21.1 |
-| 1.20.1          | alpha  | 1.0-alpha         |
+| Versi Minecraft | Status | Versi NekoUI |
+|-----------------|--------|--------------|
+| 1.21.5          | stable | v1.0.1       |
+| 1.21.4          | stable | v1.0.1       |
+| 1.21.3          | stable | v1.0.1       |
+| 1.21.2          | stable | v1.0.1       |
+| 1.21.1          | stable | v1.0.1       |
+| 1.21            | stable | v1.0.1       |
+| 1.20.1          | alpha  | v1.0-alpha   |
 ****
 # Kredit
 > Terima kasih yang sebesar-besarnya kepada semua yang terlibat dalam pembuatan NekoUI:

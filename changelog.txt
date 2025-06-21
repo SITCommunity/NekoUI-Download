@@ -1,3 +1,24 @@
+CHANGELOG - NEKOUI 1.0.1
+[ UI ]
+- Fixed gradient not appearing on the left side when toggling Clean Mode by correcting drawing coordinates and ensuring consistent render flow.
+- Improved the fade-out animation for the Minecraft version text in Clean Mode; the text now no longer reappears at 0% opacity.
+- UI buttons now persist in Clean Mode without reappearing on window resize or fullscreen toggle.
+- Improve smooth transitions in and out of Clean Mode.
+- Added logic to instantly hide widgets during Clean Mode initialization without animation.
+
+[ RPC ]
+- Changes unactive and fallback small image key to minecraft icon
+
+[ UPDATER ]
+- Improved the version checking system to better handle newer Modrinth update structures without explicit version state metadata.
+- Refactored the internal version comparator to support complex version formats (e.g., "v1.0.1-release+mc1.21.1").
+- Added support for suffix ordering such as `alpha < beta < release < stable` to ensure proper update detection.
+- Versions with metadata (e.g., "+mc1.21.1") are now normalized for consistent comparison.
+- Enhanced compatibility with semantic versions and Modrinth's latest versioning format.
+- Ensured backward compatibility with older version formats while improving sorting accuracy.
+
+==================================================================
+
 CHANGELOG - NEKOUI 1.0-RELEASE+MC1.21.1
 [ UI ]
 - Widgets (including image buttons and text buttons) now animate out with a directional slide + fade-out effect when Clean Mode is enabled, and fade back in when toggled off.
